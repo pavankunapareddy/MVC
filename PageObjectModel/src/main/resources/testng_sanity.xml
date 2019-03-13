@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TO DO MVC Test Automation Test Suite">
+	<test name="TO DO MVC Test Cases">
+		<classes>
+			<class name="com.mvc.qa.testcases.LoginPageTest"></class>
+		</classes>
+	</test>
+</suite>

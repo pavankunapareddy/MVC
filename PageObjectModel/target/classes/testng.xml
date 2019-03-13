@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="To DO MVC">
+
+	<listeners>
+		<listener class-name="com.qa.ExtentReportListener.ExtentReporterNG" />
+	</listeners>
+
+
+	<test name="To DO MVC">
+		<classes>
+			<class name="com.mvc.qa.testcases.TodoMVCTest"></class>
+			
+		</classes>
+	</test>
+</suite>
